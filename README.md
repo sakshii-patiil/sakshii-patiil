@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Sakshi Patil</h1>
 <h3 align="center">Third Year Student at Marathwada Mitra Mandal's College of Engineering, Pune</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sakshii-patiil&color=green" alt="Sakshi Patil" /> </p>
 
 <p align="justify"> I am a self-driven and passionate third-year Computer Engineering student at Pune University. Proficient in C, C++, and core Java, I possess strong skills in embedded programming, web development, and Android app development. With a commitment to staying at the forefront of technology, I actively engage in continuous learning, exploring cutting-edge technologies, participating in coding competitions.
 Alongside my academic pursuits, I am proficient in English , Hindi . Marathi and Japanese language.</p>

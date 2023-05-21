@@ -25,6 +25,9 @@ Alongside my academic pursuits, I am proficient in English , Hindi . Marathi and
 <img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/mysql/mysql.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg"></img>
+<img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg"></img>
+<img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg"></img>
+
 
 <h2>Connect with me</h2>
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sakshi-patil-970b61233"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

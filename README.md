@@ -10,23 +10,25 @@
 <p align="justify"> I am a self-driven and passionate third-year Computer Engineering student at Pune University. Proficient in C, C++, and core Java, I possess strong skills in embedded programming, web development, and Android app development. With a commitment to staying at the forefront of technology, I actively engage in continuous learning, exploring cutting-edge technologies, participating in coding competitions.
 Alongside my academic pursuits, I am proficient in English , Hindi . Marathi and Japanese language.</p>
 
-<h2> My GitHub Stats </h2>
-
-
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshii-patiil&show_icons=true&theme=graywhite)
-
 <h2> Skills </h2>
 
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></img>
 
-<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/flask/flask.png"></img>
+
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/html/html.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/css/css.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png"></img>
+<img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg"></img>
+
+<img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg"></img>
+<img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg)"></img>
+<img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"></img>
+<img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"></img>
 
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/mysql/mysql.png"></img>
+<img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg"></img>
 
 <h2>Connect with me</h2>
 <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

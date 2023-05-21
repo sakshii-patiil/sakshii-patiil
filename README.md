@@ -15,18 +15,14 @@ Alongside my academic pursuits, I am proficient in English , Hindi . Marathi and
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></img>
-
-
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/html/html.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/css/css.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg"></img>
-
 <img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg"></img>
-<img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg)"></img>
+<img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg"></img>
 <img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"></img>
 <img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"></img>
-
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/mysql/mysql.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg"></img>
 

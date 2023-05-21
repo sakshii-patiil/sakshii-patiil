@@ -3,15 +3,12 @@
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 -->
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/91329268/152631608-3668baf9-6afb-4d9e-bb68-e7df1b5cb071.gif" width="750">
-</p>
-
-<h1 align="center">Hi 👋, I'm Sumedha Zaware</h1>
-<h3 align="center">Final Year Student at Pimpri Chinchwad College of Engineering, Pune</h3>
+<h1 align="center">Hi 👋, I'm Sakshi Patil</h1>
+<h3 align="center">Third Year Student at Marathwada Mitra Mandal's College of Engineering, Pune</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sakshii-patiil&color=green" alt="Sakshi Patil" /> </p>
 
-<p align="justify"> I am a Final year Student of Computer Engineering 🎓 from Pune University 🏛. A self-driven passionate programmer💻 who loves to develop programs using cutting-edge technologies⚡. Skilled in Graphical User Interface (GUI), Python (Programming Language), C++, and core JAVA. Also, I do competitive programming and have proficient knowledge of web development.</p>
+<p align="justify"> I am a self-driven and passionate third-year Computer Engineering student at Pune University. Proficient in C, C++, and core Java, I possess strong skills in embedded programming, web development, and Android app development. With a commitment to staying at the forefront of technology, I actively engage in continuous learning, exploring cutting-edge technologies, participating in coding competitions.
+Alongside my academic pursuits, I am proficient in English , Hindi . Marathi and Japanese language.</p>
 
 <h2> My GitHub Stats </h2>
 
